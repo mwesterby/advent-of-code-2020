@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "Advent of Code Solutions 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test/**/*test.js' --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwesterby/advent-of-code-2020.git"
+  },
+  "author": "Michael Westerby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwesterby/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/mwesterby/advent-of-code-2020#readme",
+  "dependencies": {
+    "mocha": "^8.2.1"
+  }
+}
