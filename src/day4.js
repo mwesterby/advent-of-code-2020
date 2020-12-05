@@ -1,5 +1,4 @@
 const fs = require("fs");
-const { cpuUsage } = require("process");
 
 const batchFile = fs.readFileSync("../inputs/day4.txt", "utf-8").split('\n');
 
